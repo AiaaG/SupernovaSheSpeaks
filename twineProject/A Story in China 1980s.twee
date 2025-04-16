@@ -1,0 +1,673 @@
+:: StoryTitle
+A Story in China 1980s
+
+
+:: StoryData
+{
+  "ifid": "A4444879-AFC5-4381-86DE-82DCF0E0AE16",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Settings",
+  "zoom": 1
+}
+
+
+:: A Daughter, A New Beginning {"position":"725,2825","size":"100,100"}
+Years pass. She has a daughter—a beautiful, strong little girl.
+
+For the first time, she understands what it means to love without conditions.
+
+She whispers into her daughter’s ear,
+
+''Yue'': “You will never be like me.”
+
+She will never know hunger. She will never be told that her worth is less than a boy’s.
+
+Life seems to be getting better.
+
+''And then, the worst news arrives.''
+
+[[The Call That Changes Everything]]
+
+
+:: A Secret in the Dark {"position":"800,1125","size":"100,100"}
+Yue never stops dreaming of escape.
+
+She knows she can’t run. Not yet. Not after what Shengli did to her the last time she tried. Not when she knows he will kill her if she fails.
+
+So instead, she studies.
+
+She steals old textbooks from the trash near the school, gathering them in secret, hiding them in the cracks of the barn. At night, after hours of labor, when her brothers are asleep, she sneaks outside and reads under the moonlight.
+
+The words are a different kind of escape. They remind her that there is a world beyond this village, beyond Shengli, beyond a life where she is nothing.
+
+But knowledge is dangerous. And secrets never stay hidden forever.
+
+[[The Discovery]]
+
+
+:: Accept {"position":"625,1125","size":"100,100"}
+At 16, Yue is forced into marriage with a much older man—a local landowner looking for a wife to bear him sons. 
+
+Her life becomes even worse, trapped between a violent husband and her in-laws, who treat her as a servant. 
+
+(text-colour:red)[''Her dreams of education die.'']
+
+[[Give in.]]
+
+
+:: Attempt to escape {"position":"400,1125","size":"100,100"}
+''Yue attempts to flee'', she packs her belongings- nothing more than a torn notebook and half broken pencil. But her father Shengli, waiting at the door, catches her. Furious, he beats her severely.
+
+''Shengli'': “Run away, huh?”
+
+Yue remains silent.
+
+''Shengli'': “You think you deserve better life than the family’s? Better than mine?”
+
+Shengli steps closer. There is something in his eyes that makes her stomach turn.
+
+Then, he grabs her wrist.
+
+She kicks, screams, claws at his arm—anything to get away—but it doesn’t matter. He drags her back inside, slamming the door behind them.
+
+''The rest of the night is something she will never talk about.
+''
+[[Give Another Try]]
+[[Give in.]]
+
+
+:: Bathroom {"position":"825,2200","size":"100,100"}
+One night, she collapses in the dorm bathroom.
+
+Her classmates whisper:
+
+(align:"=><=")+(box:"X")[(text-colour:red)[''“If she dies, will they cancel tomorrow’s test?”'']]
+
+She heard them and thought, even if she dies, no one will care.
+
+In the morning, she wakes up, still alive.
+
+At 16, she takes the college entrance exam.
+At 16, she walks into a university, still skin and bones, still starving.
+
+She has won—but at what cost?
+
+Yue has escaped her village. But her past still haunts her.
+
+[[Episode 4 The First Taste of Freedom]]
+
+
+:: Beg for medical treatment. {"position":"600,2100","size":"100,100"}
+When she go to the school clinic, school ignores her. 
+
+''Clinic Doctor'': “Well, you’re still alive, aren’t you?”
+
+When she gives her father, Shengli, a call, Shengli laughs. 
+
+''Shengli'': “Why waste money on you?”
+
+[[Bathroom]]
+
+
+:: County High School {"position":"800,2000","size":"100,100"}
+(text-colour:red)[''High school is hell.'' ]
+
+She studies more than 16 hours a day in a freezing classroom, the lights buzzing overhead. Her stomach is always empty. Some nights, the hunger pains are so sharp she bites her own arm just to feel something else. The canteen is a battlefield—boys push past her, mocking her for not able to afford her lunch.
+
+At 15, the malnutrition reaches its peak. Her period finally came. She is bleeding—and it doesn’t stop.
+
+(text-colour:red)[(align:"=><=")[One week.
+(text-style:"blur")[Two weeks.]
+(text-style:"blurrier")[One whole month.]
+]]
+Her body screams for help, but there is no help. No money for doctors. No time for rest.
+
+The teachers say,'' “You should feel guilty. Good women wouldn’t face such problems. Study harder.”''
+
+She stares at the exam in front of her, the paper blurring. If she faints, no one will care. If she dies, they will say ''“She was weak.”''
+
+[[Beg for medical treatment.]]
+[[Endure in silence.]]
+
+
+:: Endure in silence. {"position":"1000,2100","size":"100,100"}
+She teaches herself how to survive pain. 
+
+She studies through the dizziness, the agony, the cold sweats. 
+
+''She does not stop.''
+
+[[Bathroom]]
+
+
+:: Endure it. {"position":"950,2700","size":"100,100"}
+She is too exhausted to study.
+
+Her grades slip.
+
+Her professors stop expecting her to succeed.
+
+Her body is screaming for rest, for food, for escape.
+
+But there is no escape.
+
+[''She works. She works. She works.'']
+
+[[The Final Shift]]
+
+
+:: Endure the hunger. {"position":"775,575","size":"100,100"}
+She learns to suppress her needs. Malnutrition stunts her growth, making her weaker than her brothers.
+
+[[School]]
+
+
+:: Episode 1 The Starving Daughter {"position":"625,325","size":"100,100"}
+[[The Dinner Table]]
+
+
+:: Episode 2 The Price of Education {"position":"800,1000","size":"100,100"}
+[[A Secret in the Dark]]
+
+
+:: Episode 2 The Price of Education\  {"position":"500,975","size":"100,100"}
+At 15, Yue has worked on the farm for three years. Her brothers now attend school, well-fed and growing stronger, while she grows weaker from constant labor and malnutrition. 
+
+She hasn’t read a book since she was 12.
+
+One night, after a grueling day in the fields, she overhears her parents talking.
+
+''Madam Li'': “She’s getting older. We should arrange a marriage soon. She’s useless to us otherwise.”
+''Shengli'': “Find someone who will pay a decent dowry.”
+
+Yue feels her breath catch.
+
+(text-style:"fade-in-out")[(text-colour:red)[''They are selling her.'']]
+
+[[Attempt to escape]]
+[[Accept]]
+
+
+:: Episode 3 Defiance {"position":"925,1750","size":"100,100"}
+[[Yue’s bedroom]]
+
+
+:: Episode 4 The First Taste of Freedom {"position":"825,2325","size":"100,100"}
+The Youngest in the University
+
+At 16, Yue steps onto the university campus—a place full of students at least 2 years older than her.
+
+She is the youngest in the entire university. Professors are impressed, classmates are curious, but no one understands her hunger.
+
+For the first time in her life, she is allowed to think. To learn. To exist without fear of being beaten for speaking.
+
+But one thing remains the same—she is still starving.
+
+Her scholarship covers tuition, but not food, not rent. She only has clothes that are too small, because she cannot afford new clothes.
+
+And so, she finds work.
+
+[[Homeschooling teacher]]
+[[Factory worker]]
+
+
+:: Episode 5 A New Life {"position":"725,2700","size":"100,100"}
+Yue remains the top student in her university, impressing professors and peers alike.
+
+She gets a master’s degree, and after graduation, Yue doesn’t leave. She stays at the university and becomes a teacher.
+
+She stands in front of a classroom full of students, young, hopeful, free. For the first time in her life, she has stability. A salary, a home, a purpose.
+
+And then, she meets someone.
+
+Love, Marriage, and the Words That Never Change.
+
+Yue marries. For the first time, she chooses her own family. On her wedding day, her parents attend, but they do not smile. They are busy eating all the stuff on the dining table. As she walks past them, she hears it:
+
+''“A married daughter is like spoiled water.”''
+
+Her mother does not cry. Her father does not look at her. To them, she is already gone.
+
+She should have expected it. And yet, it still hurts.
+
+[[A Daughter, A New Beginning]]
+
+
+:: Episode 6 The Final Realization {"position":"850,3525","size":"100,100"}
+Her heart is clear now. She has risen above everything that tried to keep her down. In the face of her past, she has become her own change maker.
+
+She wrote down a sentence in her notebook:
+
+(align:"=><=")+(box:"X")[//“I was born to be a mountain, not a stream, 
+to stand atop the peaks and look down upon the valleys of mediocrity.
+I was born to be extraordinary, not insignificant, 
+to stand on the shoulders of giants and scorn the cowardly and weak.”//
+
+“我生来就是高山而非溪流，我欲于群峰之巅俯视平庸的沟壑，
+我生来就是人杰而非草芥，我站在伟人之肩藐视卑微的懦夫。”
+]
+[[Help and Resources ]]
+
+
+:: Factory worker {"position":"950,2450","size":"100,100"}
+The factory seems to be her only option.
+
+The moment she steps inside, she realizes her mistake. The air is thick with oil and sweat. Machines roar so loudly that they drown out her thoughts. The men stare at her. Whisper about her. They don’t see her as a worker. They see her as prey.
+
+Her shifts stretch long into the night. The pay is barely enough to survive.
+
+She tries to study between shifts. She hides a textbook in her locker, flipping pages whenever she has a moment.
+
+But the other workers notice.
+
+''Worker 1'': “You think you’re better than us, girl?” 
+''Worker 2'': “College girls don’t belong here.” 
+
+''(align:"=><=")+(box:"X")[Her supervisor stops paying her on time.
+Her wages shrink.
+The men get bolder.
+]''
+She lasts three months.
+
+[[Endure it.]]
+[[Look for another job.]]
+
+
+:: Fight back. {"position":"925,1625","size":"100,100"}
+[[Episode 3 Defiance]]
+
+
+:: Give Another Try {"position":"400,1250","size":"100,100"}
+Yue crouches in the corner of a small, cold room. 
+
+Outside, the drunken roars of her father, Shengli, echo through the wooden walls. Tonight is different. Tonight, he is too drunk to stand properly. 
+
+Yue’s heart pounds. If she fails again, she may never get another chance.
+
+[[RUN!]]
+
+
+:: Give him the money for treatment. {"position":"975,3325","size":"100,100"}
+Yue quietly hands him the money. She doesn’t expect gratitude, only the quiet satisfaction of knowing she didn’t let hatred rule her. She will never be the daughter he expected, but she will always be her own woman.
+
+As she leaves the town, Yue remembers the girl who never had a room of her own. She remembers the constant hunger, the violence, the fear. But she is no longer that girl. She has a life. She has a daughter.
+
+Back in her apartment, as she tucks her daughter into bed, Yue gazes out the window. She thinks of her father, her past, her childhood, and the woman she has become.
+
+[[Episode 6 The Final Realization]]
+
+
+:: Give in. {"position":"625,1350","size":"100,100"}
+Yue stays on the farm and never escapes, she is never educated and remains trapped in the same cycle of suffering. ''She becomes a mother, giving birth to daughters who will suffer just as she did.''
+
+One day, her own daughter asks: “Why can’t I go to school?”
+
+For the first time in years, Yue looks at her life and realizes—she was never meant to be here.
+
+But by then, it is too late.
+
+THE END
+
+
+:: Go back. Even if he never treated her as a daughter, she is still human. {"position":"850,3075","size":"100,100"}
+One day, she decides to send some money back to her parents. She knows they still struggle, but her empathy is different now. The years of suffering have not hardened her heart; they have simply reshaped it. She doesn’t expect anything in return—not affection, not respect, just a simple act of humanity.
+
+She is now beloved. She will even donate to a stranger.
+
+[[Village]]
+
+
+:: Help and Resources\  {"position":"850,3650","size":"100,100"}
+According to China’s Seventh National Population Census (2020), the rural population was approximately ''509.79 million'', accounting for ''36.11%'' of the total population. Based on earlier data from the 2010 Census, rural women made up about 34% of the total population, which, when applied to China’s 2019 total population of 1.398 billion, suggests that there were around ''475 million'' rural women at that time. 
+
+Regarding education, data from 2010 showed that the average years of schooling for women in rural area aged six and above was ''8.4 years'', with the gender gap in education narrowing compared to previous decades. However, due to traditional cultural norms and economic constraints, rural women still face significant barriers to higher education. While China’s government has implemented various policies to improve educational opportunities for rural women and reduce the urban-rural education gap, disparities remain.
+
+If you are suffering from these kinds of problems or willing to help them, here are some resouces:
+
+1. All-China Women’s Federation (ACWF)
+中华全国妇女联合会
+
+* Description: A national organization that advocates for women’s rights and promotes gender equality in China.
+全国妇联是中国妇女的群众组织，致力于维护妇女权益，促进男女平等。
+ 
+* ''Website: https://www.women.org.cn/
+
+* Contact: Email(电子邮箱): qgflxx@women.org.cn''
+
+2. China Women’s Development Foundation (CWDF)
+中国妇女发展基金会
+
+* Description: A university dedicated to women’s education and research on gender studies.
+该基金会旨在维护妇女权益，提高妇女素质，促进妇女和妇女事业的发展。
+
+*'' Website: https://www.cwdf.org.cn/
+
+* Contact: Tel(电话)：010-65263572 Fax(传真)：010-65263572''
+
+3. UN Women China
+联合国妇女署驻华办事处
+
+* Description: The United Nations agency dedicated to gender equality and women’s empowerment, with a regional office in China.
+联合国妇女署在中国的办事处，致力于促进性别平等和增强妇女权能。
+ 
+* ''Website: https://asiapacific.unwomen.org/en/countries/china/zh
+
+* Contact:
+8-2, Block 2 Diplomatic Building, 14 Liangmahe Nanlu, Beijing 100600, CHINA.
+Tel: +86 10 853 26687 | Fax: +86 10 853 25195
+
+Contact: Wenting Zhao, Communications Officer''
+
+
+
+
+
+
+
+
+:: Homeschooling teacher {"position":"725,2450","size":"100,100"}
+After days of rejection, a wealthy family finally hires her to homeschool their children.
+
+Her students are two privileged siblings, Liang and Ming. Their parents are always away, leaving them in the care of maids.
+
+At first, Yue is nervous. This house is nothing like the world she knows. Soft carpets, a quiet, clean space, a refrigerator full of food……
+
+The children respect her. They call her “Ms Yue.”
+
+And then, one day, everything changes.
+
+[[The First Meal That Feels Like Kindness]]
+
+
+:: Ignore them. He never cared for her. Why should she care for him? {"position":"725,3075","size":"100,100"}
+''Yue feels nothing.''
+
+[[The Man Who Hurt Her]]
+
+
+:: Look for another job. {"position":"1125,2700","size":"100,100"}
+Yue quits.
+
+She takes a risk—searching for tutoring jobs in the city.
+
+[[Homeschooling teacher]]
+
+
+:: Obey and begin working to support her brothers. {"position":"500,850","size":"100,100"}
+Shengli: “A girl doesn’t need education. You’ll stay here and work until you’re married off.” 
+
+Yue: “I can do nothing, but at least I can bear it.” (Desperate)
+
+[[Episode 2 The Price of Education ]]
+
+
+:: RUN! {"position":"400,1375","size":"100,100"}
+Yue tiptoes across the dirt floor, avoiding the loose wooden planks that creak underfoot. In the moonlight, she sees her father sprawled on the kang bed, a bottle still clutched in his fist. The sharp stench of alcohol fills the room.
+
+Her hands tremble as she lifts the latch on the door. It sticks. For a terrifying second, she thinks it won’t move. Then—click. She pushes it open just enough to slip through. Cold air bites at her skin. She is outside.
+
+She runs. And runs. And runs.
+
+The County! She has never been here alone before. Fear crawls up her spine—what now? She has no money. Nowhere to go. She cannot go back. She will not go back. But survival… what will survival cost her?
+
+Suddenly, a thought struck Yue—she should go to the school. It was the only place that had ever felt like an escape, the only place where she wasn’t just a burden or an afterthought. Her teacher had once praised her for being bright, saying she had a future beyond the fields and the kitchen. If there was anywhere in this town where she might find help, it was there. Clutching her thin sleeves against the cold, she turned on aching feet and began walking toward the only hope she had left.
+
+She gets in the county school. But, will it help anyway?
+[[County High School]]
+
+
+:: School {"position":"625,725","size":"100,100"}
+At school, Yue is the top of her class.
+
+Her teacher calls her “//a genius//.” She loves books, numbers, and words. But her father sees education differently.
+
+When she turns 11, her father makes an announcement.
+
+''Shengli'': “Tomorrow, Yue will stop school. We need money for Jianhua and Zhiqiang’s education.”
+
+Her mother lowers her head. Her teacher tries to protest, but in this village, fathers own their daughters.
+
+That night, Yue locks herself in her room, pressing a pillow against her mouth to silently scream.
+
+The next morning, her school uniform is gone. A strange smell of burnt chemical fiber is in the room. Her mother won’t tell her where it is.
+
+''Madam Li'': (whisper) “Your father burned it.”
+
+''Yue quickly realizes—her fate has been sealed.''
+
+[[Obey and begin working to support her brothers.]]
+[[Secretly study at night and plan an escape.]]
+
+
+:: Secretly study at night and plan an escape. {"position":"750,850","size":"100,100"}
+At 12 years old, she is no longer a student. She is a servant.
+
+Her future is set: work, cook, raise her brothers, and one day, be sold to a husband who will treat her the same way.
+
+But she is still Yue. She still has a choice.
+
+[[Episode 2 The Price of Education]]
+
+
+:: Settings {"position":"625,200","size":"100,100"}
+A poor rural village in China, where sons are considered treasures and daughters are burdens. ''Lin Yue'', the main character, is the eldest child in a family with two younger brothers, ''Lin Jianhua'' and ''Lin Zhiqiang''.
+
+Her father,'' Lin Shengli'', is a violent, authoritative man who believes that daughters are meant to serve their fathers and brothers. 
+
+Her mother,'' Madam Li'', is a silent, overworked woman who has long accepted her fate.
+
+[[Episode 1 The Starving Daughter]]
+
+
+:: Steal food from the kitchen at night. {"position":"500,575","size":"100,100"}
+She gets caught. Her father beats her, calling her a disgrace.
+
+[[School]]
+
+
+:: The Aftermath {"position":"800,1500","size":"100,100"}
+Yue doesn’t eat for days.
+
+She doesn’t move unless she has to.
+
+Her brothers laugh when they see her. Her mother says nothing.
+
+Shengli? He acts like nothing happened.
+
+The first time was a warning. The second was punishment. ''Next time, he won’t let her live.''
+
+[[Give in.]]
+[[Fight back.]]
+
+
+:: The Call That Changes Everything {"position":"725,2950","size":"100,100"}
+Her phone rings. It’s her mother. The voice on the other end is small, hesitant.
+
+''Madam Li'': “Your father has cancer.”
+
+The man who starved her, beat her, sold her future for her brothers—now needs her.
+
+Yue’s life is far from easy, but it’s satisfactory.
+
+She lives in a comfortable apartment with her daughter and her husband, a home of warmth and stability. Her teaching career thrives. She may never have the luxury of wealth, but she has something far more precious—freedom. ''Now she has to make a choice.''
+
+[[Ignore them. He never cared for her. Why should she care for him?]]
+[[Go back. Even if he never treated her as a daughter, she is still human.]]  
+
+
+:: The Decision {"position":"725,3325","size":"100,100"}
+Yue sits at her desk, holding the phone in her hand. Her lips slightly shakes, but the voice won’t come.
+
+Her phone buzzes—it’s another message, this time from her mother, asking if she could send money for Shengli’s treatment.
+
+''Yue could.
+
+But she doesn’t have to.''
+
+She could help a stranger, but she won’t help this person. Not for him. Not for the man who never cared for her. ''Not for the man who broke her.''
+
+[[Episode 6 The Final Realization]]
+
+
+:: The Dinner Table {"position":"625,450","size":"100,100"}
+''The dinner table is a battlefield.''
+
+At 7 years old, Yue is already used to hunger. Food is never hers to have—it is something she must fight for.
+
+A bowl of chicken feet is placed at the center of the table. Her father and brothers immediately grab them with their hands, stuffing them into their mouths. Her mother picks up the leftovers, only eating what remains.
+
+Yue reaches for a small one, only for Zhiqiang  to snatch it from her fingers and shove it into his mouth.
+
+''Shengli'': (laughs) “Why are you fighting your little brother for food? A good sister should let him have it!”
+
+She says nothing. She’s used to it. 
+
+By the time the meal ends, her stomach is still empty.
+
+[[Steal food from the kitchen at night.]]
+[[Endure the hunger.]]
+
+
+:: The Discovery {"position":"800,1250","size":"100,100"}
+It happens on a day like any other.
+
+Yue returns from the fields, her body aching, her stomach empty. But as she steps into the house, she knows something is wrong.
+
+Her mother won’t look at her. Her brothers are grinning.
+
+And then she sees it.
+
+(align:"=><=")[''The textbook.'']
+
+It’s on the table, its pages torn, dirt smeared across the cover. Shengli is standing beside it, smoking. Waiting.
+
+''Shengli'': “You think you’re clever?” His voice is calm. Too calm.
+
+Yue forces herself to stay silent. She already knows what’s coming.
+
+''Shengli'': “Where did you get the money, huh? “You steal from me?”
+
+She doesn’t answer.
+
+She doesn’t have to. He already knows.
+
+The next second, the book is flying at her face.
+
+It hits her hard, knocking her back, but she barely has time to recover before he’s on her.
+
+[[The Monster Feeds on Power]]
+
+
+:: The Final Shift {"position":"950,2825","size":"100,100"}
+One night, she collapses.
+
+Right there, on the factory floor.
+
+Nobody stops working.
+
+Nobody calls for help.
+
+When the shift ends, a supervisor nudges her with his foot. She doesn’t wake up.
+
+They drag her body outside. Leave her near the dumpsters. Like trash.
+
+Her parents don’t come to claim her.
+
+Her mother barely reacts. “She was never going to amount to much.”
+
+Her father only scoffs. ''“We still have the boys.”''
+
+And just like that, she is gone.
+
+''Not a tragedy. Just another girl who never mattered.''
+
+//''THE END''//
+
+
+:: The First Meal That Feels Like Kindness {"position":"725,2575","size":"100,100"}
+One afternoon, as she packs up to leave, the children’s mother,'' Zhao Xian'', notices how thin she is.
+
+''Zhao Xian'': “Have you eaten yet?” 
+
+Yue hesitates. She never eats in front of others.
+
+''Ming'': Ms Yue, please have dinner with us!
+
+For the first time in years, Yue sits at a real dining table.
+
+She doesn’t steal food. She doesn’t have to fight for it.
+
+She simply eats.
+
+The warmth of the food settles inside her. A feeling she hasn’t known since childhood.
+She teaches with more passion. She doesn’t just go through the textbooks—she teaches them how to think.
+
+And for the first time in her life, she starts to believe that maybe she isn’t just surviving. Maybe she can be something more.
+
+[[Episode 5 A New Life]]
+
+
+:: The Man Who Hurt Her {"position":"725,3200","size":"100,100"}
+Shengli, her father, has spent her whole life abusing her. He has humiliated her, starved her, and used her in every way he could. He is the man who forced her to quit school, the man who told her she was born to raise her brothers, the man who nearly destroyed her.
+Yue remembers the nights she lay in bed, the hunger pangs gnawing at her, the fear of him returning home drunk, violent, and angry. She remembers the feeling of being nothing, of being trapped, of being disposable.
+
+''Now, that man is dying.
+
+And Yue feels nothing.''
+
+[[The Decision]]
+
+
+:: The Monster Feeds on Power {"position":"800,1375","size":"100,100"}
+The walls of the house are thin. The village is small.
+
+(text-style:"shudder")[(text-colour:red)[(align:"=><=")[Everyone hears.
+
+No one stops it.
+
+No one ever does.]]]
+
+[[The Aftermath]]
+
+
+:: Turn away, walk out without looking back. {"position":"850,3325","size":"100,100"}
+Yue feels a strange peace, as if she has finally liberated herself from the chains of her past. She doesn’t care whether he is cured or not. She owes him nothing.
+
+[[Episode 6 The Final Realization]]
+
+
+:: Village {"position":"850,3200","size":"100,100"}
+As Yue walks into her hometown for the first time in almost 10 years, she feels nothing.
+
+Her parents no longer welcome her with open arms. Her room, once hers, is now occupied by her younger brother.
+
+She doesn’t care. Her hometown does not define her.
+
+Her parents are still the same. Her father is still the same drunk, violent man who never saw her as anything more than a tool to serve his needs. Her mother remains passive, quietly enduring the cruelty. But Yue is no longer that little girl who was subjugated and unseen.
+
+Yue stands at the door, staring at her father, who lies on the couch, drunk. He looks at her with a mix of disdain and desperation. He asks, almost in a whisper.
+
+''Shengli'': “Are you going to leave me to die?”
+
+[[Turn away, walk out without looking back.]]
+[[Give him the money for treatment.]]
+
+
+
+:: Yue’s bedroom {"position":"925,1875","size":"100,100"}
+One night, she kneels in front of her father, her thin body trembling but her voice firm.
+
+''Yue'': “If you don’t let me study, I’ll make sure everyone in the village knows what you’ve done to me, and I’m sure you and your sons will be in jail for the rest of your life.”
+
+Her father, furious, raises his hand. But then he sees something he has never seen before in his daughter’s eyes—absolute defiance.
+
+After days of fighting, he relents. 
+
+''Shengli'': “Fine. But don’t expect us to feed you. If you want to study, earn your own damn food.”
+
+Yue finally begins high school.
+
+''But the price of her education is starvation.''
+
+[[County High School]]
