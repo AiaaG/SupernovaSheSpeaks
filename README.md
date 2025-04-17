@@ -169,8 +169,10 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- LICENSE -->
 ## License
-
-Distributed under the n/a. See `LICENSE.txt` for more information.
+This project is proprietary. All rights reserved © Supernova: She Speaks, 2025.  
+Use of this code, story files, or design elements is not permitted without explicit permission.  
+Educational showcase only.
+See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
