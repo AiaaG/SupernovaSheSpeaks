@@ -18,13 +18,6 @@
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![n/a][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -35,7 +28,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">SupernovaSheSpeaks</h3>
+<h3 align="center">Supernova: She Speaks</h3>
 
   <p align="center">
     Supernova is a social enterprise, combining commercial practices with our driving mission for a world without harmful practices, toxic traditions, and biases against girls and women. We work and serve girls around the world for an equal, free, and bright future, amplifying their voices and profiting business partners through our vision for the greater good.
@@ -44,8 +37,6 @@
     <br />
     <br />
     <a href="https://github.com/aiaag/supernovashespeaks">View Demo</a>
-    &middot;
-    <a href="https://github.com/aiaag/supernovashespeaks/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
     <a href="https://github.com/aiaag/supernovashespeaks/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
@@ -84,24 +75,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https:supernovashespeaks.com)
-
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `AiaaG`, `SupernovaSheSpeaks`, `@supernova4girls`, `n/a`, `supernovashespeaks@gmail.com`, `supernovashespeaks@gmail.com`, `SupernovaSheSpeaks`, `Supernova is a social enterprise, combining commercial practices with our driving mission for a world without harmful practices, toxic traditions, and biases against girls and women. We work and serve girls around the world for an equal, free, and bright future, amplifying their voices and profiting business partners through our vision for the greater good.`, `n/a`
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ### Built With
 
-* [![Twine][Twine]][[twine url](https://github.com/tweecode/twine)]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Twine][Twine-img]][Twine-url]
+* [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+* [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+* [![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/)
+* [![Google Forms](https://img.shields.io/badge/Google%20Forms-673AB7?style=for-the-badge&logo=google-forms&logoColor=white)](https://www.google.com/forms/about/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,36 +95,23 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+This project uses different platforms and tools. You don’t need to install everything — just make sure you have access to:
+
+* A web browser – To view Twine stories, Google Forms, and embedded Maps.
+
+* Flutter environment (optional) – If you want to run or modify the Flutter app.
+
+* Text editor or IDE (optional) – Like VS Code or Android Studio, to explore the Flutter code or Twine .twee files.
+
+* Google Account – To view or interact with Google Forms or Maps embeds, if required.
 
 ### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+* Clone the repo
    ```sh
    git clone https://github.com/AiaaG/SupernovaSheSpeaks.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin AiaaG/SupernovaSheSpeaks
-   git remote -v # confirm the changes
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -207,8 +179,7 @@ Distributed under the n/a. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@@supernova4girls](https://twitter.com/@supernova4girls) - supernovashespeaks@gmail.com@supernovashespeaks@gmail.com.com
-
+Supernova - [@supernova4girls](https://twitter.com/@supernova4girls) - supernovashespeaks@gmail.com
 Project Link: [https://github.com/AiaaG/SupernovaSheSpeaks](https://github.com/AiaaG/SupernovaSheSpeaks)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -243,8 +214,9 @@ Project Link: [https://github.com/AiaaG/SupernovaSheSpeaks](https://github.com/A
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+[Twine-img]: https://img.shields.io/badge/Twine-0066cc?style=for-the-badge&logo=data:image/svg+xml;base64,<base64logo>&logoColor=white
+[Twine-url]: https://twinery.org/
+
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
