@@ -102,10 +102,6 @@ This project uses different platforms and tools. You don’t need to install eve
 
 * A web browser – To view Twine stories, Google Forms, and embedded Maps.
 
-* Flutter environment (optional) – If you want to run or modify the Flutter app.
-
-* Text editor or IDE (optional) – Like VS Code or Android Studio, to explore the Flutter code or Twine .twee files.
-
 * Google Account – To view or interact with Google Forms or Maps embeds, if required.
 
 ### Installation
@@ -117,31 +113,22 @@ This project uses different platforms and tools. You don’t need to install eve
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- USAGE EXAMPLES -->
-## Usage
+## Usage & Roadmap
+The homepage, named "Girls' Galaxy" is used to help users navigate through the app. There are three main features:
+* "Shining Stars"
+  Our main functionality, where interactive, story-based, real-life stories shine--just like the stars.
+  Simply click on the location you wish to play in and immersive yourself into the world of women.
+* "Secret Stars"
+  An option for users to share their stories, and if willing, contribute it to our global map of stories.
+  Use the Google Form to share, contribute, and connect!
+* "Support Centers"
+  Supernova's unique feature, offering a global map of various support organizations, centers, and locations.
+  Click on the closest location to you and visit the address! Other additional information, like email and phone number may also be listed.
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/AiaaG/SupernovaSheSpeaks/issues) for a full list of proposed features (and known issues).
+  See the [open issues](https://github.com/AiaaG/SupernovaSheSpeaks/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -165,8 +152,6 @@ Don't forget to give the project a star! Thanks again!
   <img src="https://contrib.rocks/image?repo=AiaaG/SupernovaSheSpeaks" alt="contrib.rocks image" />
 </a>
 
-
-
 <!-- LICENSE -->
 ## License
 This project is proprietary. All rights reserved © Supernova: She Speaks, 2025.  
@@ -177,16 +162,15 @@ See `LICENSE` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- CONTACT -->
 ## Contact
 
-Supernova - [@supernova4girls](https://twitter.com/@supernova4girls) - supernovashespeaks@gmail.com
+Twitter/X: [@supernova4girls](https://twitter.com/@supernova4girls)
+E-mail: supernovashespeaks@gmail.com
+Instagram: https://www.instagram.com/supernova_she_speaks/
 Project Link: [https://github.com/AiaaG/SupernovaSheSpeaks](https://github.com/AiaaG/SupernovaSheSpeaks)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
