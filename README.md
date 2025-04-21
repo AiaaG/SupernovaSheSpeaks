@@ -165,19 +165,20 @@ See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Twitter/X: [@supernova4girls](https://twitter.com/@supernova4girls)
-E-mail: supernovashespeaks@gmail.com
-Instagram: https://www.instagram.com/supernova_she_speaks/
-Project Link: [https://github.com/AiaaG/SupernovaSheSpeaks](https://github.com/AiaaG/SupernovaSheSpeaks)
+* Twitter/X: [@supernova4girls](https://twitter.com/@supernova4girls)
+* E-mail: supernovashespeaks@gmail.com
+* Instagram: https://www.instagram.com/supernova_she_speaks/
+* Project Link: [https://github.com/AiaaG/SupernovaSheSpeaks](https://github.com/AiaaG/SupernovaSheSpeaks)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* We would like to acknowledge the unwavering support and guidance of our mothers throughout this important initiative.
+* We are thankful to our mentor, Arun Saxena, for his exceptional guidance and support throughout the development of this project.
+* We are grateful for our mentor, Cassandra Mok for her invaluable advice throughout the development of this project.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,23 +196,5 @@ Project Link: [https://github.com/AiaaG/SupernovaSheSpeaks](https://github.com/A
 [issues-url]: https://github.com/AiaaG/SupernovaSheSpeaks/issues
 [license-shield]: https://img.shields.io/github/license/AiaaG/SupernovaSheSpeaks.svg?style=for-the-badge
 [license-url]: https://github.com/AiaaG/SupernovaSheSpeaks/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/n/a
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
 [Twine-img]: https://img.shields.io/badge/Twine-0066cc?style=for-the-badge&logo=data:image/svg+xml;base64,<base64logo>&logoColor=white
 [Twine-url]: https://twinery.org/
-
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
