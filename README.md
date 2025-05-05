@@ -99,9 +99,11 @@
 ### Prerequisites
 
 This project uses different platforms and tools. You don’t need to install everything — just make sure you have access to:
-
+* Flutter SDK (https://docs.flutter.dev/get-started/install)
+* Dart SDK (usually bundled with Flutter)
+* Android Studio or VS Code (with Flutter & Dart extensions)
+* An emulator or physical device for testing
 * A web browser – To view Twine stories, Google Forms, and embedded Maps.
-
 * Google Account – To view or interact with Google Forms or Maps embeds, if required.
 
 ### Installation
