@@ -98,7 +98,7 @@
 
 ### Prerequisites
 
-This project uses different platforms and tools. You don’t need to install everything — just make sure you have access to:
+This project uses different platforms and tools. You need to have access to:
 * Flutter SDK (https://docs.flutter.dev/get-started/install)
 * Dart SDK (usually bundled with Flutter)
 * Android Studio or VS Code (with Flutter & Dart extensions)
