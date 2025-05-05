@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/aiaag/supernovashespeaks">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Supernova: She Speaks</h3>
